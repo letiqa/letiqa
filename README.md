@@ -73,6 +73,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/letiqa/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>
+  <a href="mailto:leticiaizabeldaluz@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" /></a>
   <a href="https://github.com/letiqa" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" /></a>
 </p>
 
