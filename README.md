@@ -4,12 +4,12 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+##  Sobre mim
 
 ### Estou fazendo transição de carreira para TI. Eu estudava odonto na UFSC e estou migrando pro QA.
 
 ---
-## 🚀 Projetos em destaque
+##  Projetos em destaque
 
 #### 1. **qa-web-boticario** — Testes manuais em e-commerce real
 [`letiqa/qa-web-boticario`](https://github.com/letiqa/qa-web-boticario) 
@@ -27,7 +27,7 @@
 
 ---
 
-## 🧪 O que eu faço hoje
+## O que eu faço hoje
 
 | Área | Nível | Ferramentas / Práticas |
 |------|-------|------------------------|
@@ -41,7 +41,7 @@
 ---
 
 
-## 🛠 Stack & Tools
+##  Stack & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,playwright,pytest,git,github,vscode,html,css,js,postman,jira,notion,obsidian,linux,windows" alt="Skills" />
@@ -50,17 +50,7 @@
 
 ---
 
-## 🎯 Objetivos 2026/2027
-
-- [ ] Publicar **1 projeto de automação Playwright completo** (CI + relatório + Page Objects)
-- [ ] Contribuir em **1 projeto open source** 
-- [ ] Consolidar **portfólio técnico** com 3+ projetos reais (manual + auto + API)
-- [ ] Conquistar **primeira oportunidade remunerada** (estágio / jr / freelance)
-- [ ] Manter **consistência de estudos** 
-
----
-
-## 💡 Diferenciais que carrego
+##  Diferenciais que carrego
 
 - **Background em saúde** → atenção a detalhes, rastreabilidade, documentação rigorosa, empatia com usuário final
 - **Mentoria próxima** ([`@qakaio`](https://github.com/qakaio), QA Sênior) → feedback real de mercado, code review, práticas de time
